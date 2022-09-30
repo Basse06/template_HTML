@@ -1,18 +1,16 @@
 # Min første nettside
-Her kan du skrive en kort tekst om hva nettsiden er; hvem er nettsiden for, hva slags innhold finnes her?
-
+Nettsiden min heter karlsen lydteknik og grunnen til at jeg har kalt den Karlsen teknik siden jeg er intresert og liker å holde på med lydteknikk.
+På nettsiden har  jeg skrevet om lydmiksere og pa annlegg.Nettsiden er for de som trenge å leie lyd utstyr
 ## Planlegging
 Her kan du skrive om hva slags planer du hadde sett for deg *før* du skrev koden til nettstedet ditt
-
+Jeg hadde tenkt til å ha en nettside der jeg har 4 bokser på hjem skjermen der man kunne trykke seg på ulike kategorier : utstyr,hjem,kontakt og utleie 
 ## Refleksjon
-Her kan du skrive om prosjektet i etterkant. Gikk alt etter planen? Hvorfor? Hvorfor ikke?
+Nei det gikk ganske drårlig syntes jeg siden jeg forstod det ikke med en gang og synes at det er vanskelig men ellers har det gått greit 
 
 ### Dette er jeg fornøyd med
-- List opp noe du er fornøyd med
+- Utsende 
 
 ### Dette er jeg ikke like fornøyd med
-- List opp noe du hadde likt å fått til bedre
-- Eller noe du synes var vanskelig
-
+- Jeg håpet egentlig at jeg hadde fått det til bedre og jeg ikke syntes at det var vanskelig.
 ### Slik kan det bli bedre neste gang
-- List opp ideer du kan ta med deg videre til neste gang
+- Lære mer og repetere.
